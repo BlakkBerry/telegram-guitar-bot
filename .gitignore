@@ -1,0 +1,5 @@
+database
+chromedriver.exe
+geckodriver.log
+venv
+.idea
