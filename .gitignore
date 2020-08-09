@@ -2,3 +2,4 @@ chromedriver.exe
 geckodriver.log
 venv
 .idea
+__pycache__
